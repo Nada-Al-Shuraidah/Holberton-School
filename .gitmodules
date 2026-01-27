@@ -1,0 +1,48 @@
+[submodule "projects/holbertonschool-zero_day"]
+	path = projects/holbertonschool-zero_day
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-zero_day
+[submodule "projects/holbertonschool-printf"]
+	path = projects/holbertonschool-printf
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-printf
+[submodule "projects/holbertonschool-low_level_programming"]
+	path = projects/holbertonschool-low_level_programming
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-low_level_programming
+[submodule "projects/holbertonschool-binary_trees"]
+	path = projects/holbertonschool-binary_trees
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-binary_trees
+[submodule "projects/holbertonschool-chatgpt-introduction"]
+	path = projects/holbertonschool-chatgpt-introduction
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-chatgpt-introduction
+[submodule "projects/holbertonschool-web_front_end"]
+	path = projects/holbertonschool-web_front_end
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-web_front_end
+[submodule "projects/holbertonschool-higher_level_programming"]
+	path = projects/holbertonschool-higher_level_programming
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-higher_level_programming
+[submodule "projects/holbertonschool-hbnb"]
+	path = projects/holbertonschool-hbnb
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-hbnb
+[submodule "projects/holbertonschool-web_back_end"]
+	path = projects/holbertonschool-web_back_end
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-web_back_end
+[submodule "projects/holbertonschool-softy-pinko-docker"]
+	path = projects/holbertonschool-softy-pinko-docker
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-softy-pinko-docker
+[submodule "projects/holbertonschool-erb_react"]
+	path = projects/holbertonschool-erb_react
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-web_react
+[submodule "projects/holbertonschool-system_engineering-devops"]
+	path = projects/holbertonschool-system_engineering-devops
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-system_engineering-devops
+[submodule "projects/holbertonschool-Fix_My_Code_Challenge-1"]
+	path = projects/holbertonschool-Fix_My_Code_Challenge-1
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-Fix_My_Code_Challenge-1
+[submodule "projects/holbertonschool-Fix_My_Code_Challenge"]
+	path = projects/holbertonschool-Fix_My_Code_Challenge
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-Fix_My_Code_Challenge
+[submodule "projects/holbertonschool-network"]
+	path = projects/holbertonschool-network
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-network
+[submodule "projects/holbertonschool-shell"]
+	path = projects/holbertonschool-shell
+	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-shell
