@@ -49,3 +49,6 @@
 [submodule "projects/Portfolio"]
 	path = projects/Portfolio
 	url = https://github.com/Bushraalshulail/Portfolio-.git
+[submodule "Portfolio"]
+	path = Portfolio
+	url = https://github.com/Bushraalshulail/Portfolio-.git
