@@ -46,9 +46,6 @@
 [submodule "projects/holbertonschool-shell"]
 	path = projects/holbertonschool-shell
 	url = https://github.com/Nada-Al-Shuraidah/holbertonschool-shell
-[submodule "projects/Portfolio"]
-	path = projects/Portfolio
-	url = https://github.com/Bushraalshulail/Portfolio-.git
 [submodule "Portfolio"]
 	path = Portfolio
 	url = https://github.com/Bushraalshulail/Portfolio-.git
