@@ -23,26 +23,27 @@ This repository contains all the projects completed as part of the **Holberton S
 
 ## Projects
 
-All projects are inside the `projects/` folder.  
+All projects are located inside the `projects/` directory.
 
 | Project Name | Description |
 |--------------|-------------|
-| `holbertonschool-Fix_My_Code_Challenge` | Debugging and code correction exercises to practice reading, analyzing, and fixing code. |
-| `holbertonschool-binary_trees` | Implementation and manipulation of binary trees and related data structures in C. |
-| `holbertonschool-chatgpt-introduction` | Introductory project exploring AI concepts and using ChatGPT API for simple tasks. |
-| `holbertonschool-erb_react` | Front-end project using React with embedded Ruby templates (ERB) for interactive web pages. |
-| `holbertonschool-hbnb` | Full-stack AirBnB clone project combining front-end, back-end, and database management. |
-| `holbertonschool-higher_level_programming` | C and Python advanced exercises focusing on object-oriented programming and algorithms. |
-| `holbertonschool-low_level_programming` | Low-level programming projects in C: memory management, pointers, and system calls. |
-| `holbertonschool-network` | Networking exercises including sockets, client-server communication, and network tools. |
-| `holbertonschool-printf` | Recreating the printf function in C with full format specifier support. |
-| `holbertonschool-shell` | Implementation of a simple Unix command-line shell with custom commands and parsing. |
-| `holbertonschool-softy-pinko-docker` | Docker project for containerizing applications and deploying microservices. |
-| `holbertonschool-system_engineering-devops` | System engineering and DevOps exercises including automation, scripting, and CI/CD basics. |
-| `holbertonschool-web_back_end` | Back-end web development projects using Python/Flask or Node.js, APIs, and database integration. |
-| `holbertonschool-web_front_end` | Front-end web development projects including HTML, CSS, JavaScript, and responsive design. |
-| `holbertonschool-zero_day` | Security-focused projects exploring vulnerabilities, exploits, and safe coding practices. |
-| `Portfolio` | Final project consolidating all Holberton projects into a single, complete portfolio showcasing skills across all domains. |
+| `holbertonschool-zero_day` | Initial setup and foundational projects covering Git, Linux basics, and development environment preparation. |
+| `holbertonschool-shell` | Unix shell scripting projects focusing on command-line tools, permissions, processes, and automation. |
+| `holbertonschool-printf` | Reimplementation of the C `printf` function, handling format specifiers, variadic functions, and memory management. |
+| `holbertonschool-low_level_programming` | Core C programming concepts including pointers, memory allocation, data structures, and system calls. |
+| `holbertonschool-binary_trees` | Design and manipulation of binary trees and traversal algorithms implemented in C. |
+| `holbertonschool-network` | Networking fundamentals including protocols, sockets, client-server communication, and network analysis. |
+| `holbertonschool-system_engineering-devops` | System engineering and DevOps projects covering Bash scripting, automation, monitoring, and CI/CD concepts. |
+| `holbertonschool-higher_level_programming` | High-level programming using Python, focusing on OOP, data structures, algorithms, and problem-solving. |
+| `holbertonschool-web_front_end` | Front-end web development using HTML, CSS, and JavaScript with responsive and accessible design principles. |
+| `holbertonschool-web_back_end` | Back-end development projects using APIs, databases, authentication, and server-side logic. |
+| `holbertonschool-web_react` | Modern front-end development using React for building dynamic and component-based user interfaces. |
+| `holbertonschool-hbnb` | Full-stack AirBnB clone project integrating front-end, back-end, APIs, and database management. |
+| `holbertonschool-softy-pinko-docker` | Docker-based project focusing on containerization, images, services, and deployment workflows. |
+| `holbertonschool-chatgpt-introduction` | Introductory AI project exploring prompt engineering and practical usage of ChatGPT in development tasks. |
+| `holbertonschool-Fix_My_Code_Challenge` | Debugging challenges aimed at improving code reading, analysis, and fixing skills. |
+| `holbertonschool-Fix_My_Code_Challenge_1` | Advanced debugging exercises focusing on identifying logical and runtime errors. |
+| `Portfolio` | Final portfolio project showcasing all completed work in a structured and professional presentation. |
 
 ---
 
