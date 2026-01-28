@@ -2,9 +2,15 @@
   <img
     src="https://github.com/user-attachments/assets/598926ea-4d14-4bf7-8a66-b2f6faf29a93"
     alt="Holberton School"
-    width="400"
+    width="200"
   />
 </p>
+
+# Holberton School Projects
+
+This repository contains all the projects completed as part of the **Holberton School Software Engineering Foundation curriculum**.
+
+---
 
 ## About This Path
 
