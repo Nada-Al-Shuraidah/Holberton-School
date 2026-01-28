@@ -1,8 +1,8 @@
-![Holberton-Logo](https://github.com/user-attachments/assets/598926ea-4d14-4bf7-8a66-b2f6faf29a93)
+<p align="center">
+  <![Holberton-Logo](https://github.com/user-attachments/assets/598926ea-4d14-4bf7-8a66-b2f6faf29a93) alt="Holberton School" width="400"/>
+</p>
 
-# Holberton-School
-
-## Holberton School Projects
+# Holberton School Projects
 
 This repository contains all the projects completed as part of the **Holberton School Software Engineering Foundation curriculum**.
 
