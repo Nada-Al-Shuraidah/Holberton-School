@@ -2,7 +2,7 @@
   <img
     src="https://github.com/user-attachments/assets/598926ea-4d14-4bf7-8a66-b2f6faf29a93"
     alt="Holberton School"
-    width="200"
+    width="300"
   />
 </p>
 
